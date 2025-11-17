@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4a90e2;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+
+nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 40px;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.event-list {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 40px;
+}
+
+.event-card {
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    width: 250px;
+    text-align: center;
+}
+
+.register-form {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
